@@ -1,6 +1,6 @@
 # Basavaraj Bellubbi - Portfolio
 
-Welcome to the portfolio website of **Basavaraj Bellubbi**, a Java Developer, Full Stack Developer, and Data Science Enthusiast. This website showcases my skills, projects, certifications, education, and contact information.
+Welcome to the portfolio website of **Basavaraj Bellubbi**, a Java Developer, Full Stack Developer. This website showcases my skills, projects, certifications, education, and contact information.
 
 ## Technologies Used
 - HTML
